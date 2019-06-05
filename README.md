@@ -6,7 +6,9 @@ First install autokey
 
     sudo apt install autokey-gtk
 
-After instalation clone this repo inside autokey config folder
+After instalation open and close autokey so it creates its config files.
+
+Then clone this repo inside autokey config folder
 
     cd ~/.config/autokey/data
   
