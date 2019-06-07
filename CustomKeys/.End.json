@@ -1,5 +1,5 @@
 {
-    "usageCount": 71, 
+    "usageCount": 89, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "End", 
@@ -14,7 +14,7 @@
     "hotkey": {
         "hotKey": "<right>", 
         "modifiers": [
-            "<ctrl>", 
+            "<alt>", 
             "<super>"
         ]
     }, 

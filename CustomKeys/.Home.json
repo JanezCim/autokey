@@ -1,5 +1,5 @@
 {
-    "usageCount": 7, 
+    "usageCount": 28, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "Home", 
@@ -14,7 +14,7 @@
     "hotkey": {
         "hotKey": "<left>", 
         "modifiers": [
-            "<ctrl>", 
+            "<alt>", 
             "<super>"
         ]
     }, 
